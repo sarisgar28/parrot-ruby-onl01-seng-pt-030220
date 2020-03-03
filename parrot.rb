@@ -1,4 +1,3 @@
-def return_phrase 
-puts "Pretty bird!"
-return_phrase #pretty_bird 
+def return_phrase (parrot)
+puts "Pretty bird!","Squawk!"
 end 
