@@ -1,2 +1,3 @@
-def parrot
+def phrase = parrot ("Pretty bird!")
+
 end
