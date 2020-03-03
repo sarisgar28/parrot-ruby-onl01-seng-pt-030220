@@ -1,3 +1,3 @@
-def return_parrot == "Squawk!"
+def return_parrot 
   puts "Pretty bird!"
 end 
