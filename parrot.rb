@@ -1,3 +1,3 @@
-def return_phrase_squawk
+def return_parrot_squawk
 puts "Pretty bird!","Squawk!"
 end 
