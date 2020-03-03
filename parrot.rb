@@ -1,4 +1,3 @@
-def return_parrot 
-  return "Squawk!"
+def return_parrot == "Squawk!"
   puts "Pretty bird!"
 end 
