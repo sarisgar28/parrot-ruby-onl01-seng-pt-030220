@@ -1,4 +1,4 @@
 def parrot (phrase ="Squawk!")
-  puts ="Pretty bird!"
-  return  #parrot =="Pretty bird!"
+  puts #phrase ="Pretty bird!"
+  return  #phrase ="Pretty bird!"
 end
