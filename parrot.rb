@@ -1,3 +1,3 @@
-def ("Pretty bird!")
+def parrot("Pretty bird!")
   puts "Squawk!"
 end 
