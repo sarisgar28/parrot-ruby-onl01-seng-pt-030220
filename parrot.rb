@@ -1,3 +1,3 @@
-def return_name ("Pretty bird!")
+def return_phrase 
 puts "Pretty bird!"
 end 
