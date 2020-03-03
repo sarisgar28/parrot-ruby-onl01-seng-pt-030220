@@ -1,4 +1,4 @@
-def return_squawk 
+def return_parrot 
   return "Squawk!"
   puts "Pretty bird!"
 end 
